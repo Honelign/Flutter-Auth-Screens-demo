@@ -6,13 +6,13 @@ A new Flutter project.
 
 Here are some screenshots of the app:
 
-![Screenshot 1](assets/screenshot1.png)
+![Screenshot 1](assets/Screenshot1.png)
 Sign up page.
 
-![Screenshot 2](assets/screenshot2.png)
+![Screenshot 2](assets/Screenshot2.png)
 Otp page.
 
-![Screenshot 3](assets/screenshot3.png)
+![Screenshot 3](assets/Screenshot3.png)
 Login page.
 
 ## Getting Started
