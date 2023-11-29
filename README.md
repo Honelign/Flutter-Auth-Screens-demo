@@ -2,6 +2,19 @@
 
 A new Flutter project.
 
+## Screenshots
+
+Here are some screenshots of the app:
+
+![Screenshot 1](assets/screenshot1.png)
+Sign up page.
+
+![Screenshot 2](assets/screenshot2.png)
+Otp page.
+
+![Screenshot 3](assets/screenshot3.png)
+Login page.
+
 ## Getting Started
 
 This project is a starting point for a Flutter application.
